@@ -29,12 +29,12 @@ Ez a projekt egy Laravel-alapú API-t implementál mezőgazdasági gépek kölcs
 
 1. Klónozza le a repository-t:
 ```
-git clone https://github.com/your-username/agricultural-machine-rental.git
+git clone https://github.com/KomaromiJano/AgriculturalMachineAPI.git
 ```
 
 2. Lépjen be a projekt könyvtárába:
 ```
-cd agricultural-machine-rental
+cd AgriculturalMachineAPI
 ```
 
 3. Telepítse a függőségeket:
